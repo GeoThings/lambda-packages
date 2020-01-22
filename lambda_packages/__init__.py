@@ -181,5 +181,11 @@ lambda_packages = {
             'version': '1.0.9',
             'path': os.path.join(PACKAGES_DIR, 'xmlsec', 'python3.6-xmlsec-1.0.9.tar.gz')
         }
+    },
+    'orjson': {
+        'python3.7': {
+            'version': '2.1.4',
+            'path': os.path.join(PACKAGES_DIR, 'orjson', 'python3.7-orjson-2.1.4.tar.gz')
+        }
     }
 }
